@@ -1,4 +1,4 @@
-# Anime-Reviews-Scraper-with-Visual-Analysis
+# Anime Reviews Scraper with Visual Analysis
 
 This an Anime Reviews Scraper that scrapes data like usernames, date and review score from all the reviews on MAL (MyAnimeList). After that it does Analysis on the review scores to calculate if an Anime is worth watching or not.
 
