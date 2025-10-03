@@ -54,7 +54,7 @@ Below is a Screenshot of the Data Analysis:-
 
 ## Disclaimer:
 
-This project is just a basic Review Scraper and Analysis. More Improvements will be done in the Future.
+This project is just a basic Review Scraper and Analysis which was made just for practice. More Improvements will be done in the Future.
 
 ## 🚀 About Me
 Solo student developer • Building all kinds of projects for fun • Always learning, always creating. 🚀
