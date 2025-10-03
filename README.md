@@ -5,9 +5,9 @@ This an Anime Reviews Scraper that scrapes data like usernames, date and review 
 ## This Project Includes:
 
 - Anime Search Engine to select the Anime that you want to Analyise.
-- Web Scraper that scrapes all Usernames, Date and Review Scores from all of the Reviews.
+- Web Scraper that scrapes all Usernames, Dates, Opinions and Review Scores from all of the Reviews.
 - Total Reviews Count scraper.
-- Statistical Analysis on Review scores and calculting Weighted Mean with Custom Weights.
+- Statistical Analysis on Review scores and calculating Weighted Mean with Custom Weights.
 - Graphical Representation of Results in the end.
 
 ## Links that the project uses:
@@ -15,6 +15,8 @@ This an Anime Reviews Scraper that scrapes data like usernames, date and review 
 https://myanimelist.net/
 
 # Explantion of Different Components of the Project
+
+
 
 ## Anime Search Engine:
 
@@ -32,7 +34,7 @@ Below is the screenshot of Total Reviews Count Showing feature:-
 
 ## Reviews Scraping:
 
-The Review Scraper scrapes all the reviews from the selected Anime. It scrapes each individual username, date and review score.
+The Review Scraper scrapes all the reviews from the selected Anime. It scrapes each individual username, date, opinion and review score.
 
 Below is a Screenshot of the Review Scraping:-
 
