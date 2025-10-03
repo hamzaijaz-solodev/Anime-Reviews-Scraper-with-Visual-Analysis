@@ -7,7 +7,7 @@ This an Anime Reviews Scraper that scrapes data like usernames, date and review 
 - Anime Search Engine to select the Anime that you want to Analyise.
 - Web Scraper that scrapes all Usernames, Date and Review Scores from all of the Reviews.
 - Total Reviews Count scraper.
-- Statistical Analysis on Review scores and calcualting Weighted Mean with Custom Weights.
+- Statistical Analysis on Review scores and calculting Weighted Mean with Custom Weights.
 - Graphical Representation of Results in the end.
 
 ## Links that the project uses:
